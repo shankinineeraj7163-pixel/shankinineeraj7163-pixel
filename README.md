@@ -1,16 +1,151 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Neeraj%20Shankini&fontSize=60&fontAlignY=40&animation=fadeIn"/>
 
-<!--
-**shankinineeraj7163-pixel/shankinineeraj7163-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Neeraj Shankini</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">BSc Computer Science (AI) | Aspiring Full Stack Developer 🚀</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+Developer;Java+Developer;Python+Programmer;SQL+Enthusiast;AI+Learner;Open+to+Internships+and+Opportunities" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shankinineeraj7163-pixel&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+</p>
+
+---
+
+# 🚀 About Me
+
+- 🎓 BSc Computer Science (AI) @ Loyola Academy
+- 📍 Hyderabad, India
+- 💻 Passionate about Full Stack Development
+- 🌱 Currently learning React, Java, Python & SQL
+- 🤖 Exploring Artificial Intelligence
+- 💼 Open to Internships & Entry-Level Opportunities
+- 🏋️ Gym Enthusiast
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:shankinineeraj7163@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,mysql,git,github,vscode" />
+</p>
+
+---
+
+# 💻 Skills
+
+```text
+HTML
+CSS
+JavaScript
+React.js
+Python
+SQL
+Git
+GitHub
+Responsive Web Design
+Problem Solving
+```
+
+---
+
+# 🚀 Featured Project
+
+## 🛒 Forever E-Commerce
+
+A fully functional MERN-based E-Commerce platform with:
+
+✔ User Authentication
+
+✔ Shopping Cart
+
+✔ Product Management
+
+✔ Checkout System
+
+✔ Responsive Design
+
+🔗 Live Demo:
+https://forever-e-commerce-seven.vercel.app/
+
+🔗 GitHub:
+https://github.com/fateslicer69/forever-eCommerce
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shankinineeraj7163-pixel&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shankinineeraj7163-pixel&theme=tokyonight" />
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankinineeraj7163-pixel&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shankinineeraj7163-pixel&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shankinineeraj7163-pixel&theme=tokyo-night"/>
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```javascript
+const neeraj = {
+location: "Hyderabad",
+education: "BSc Computer Science (AI)",
+skills: [
+"HTML",
+"CSS",
+"JavaScript",
+"React",
+"Java",
+"Python",
+"SQL"
+],
+goal: "Become a Full Stack Developer"
+};
+
+console.log("Keep Building 🚀");
+```
+
+---
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shankinineeraj7163-pixel&theme=tokyonight"/>
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+
