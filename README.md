@@ -6,6 +6,8 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=900&lines=Neeraj+Shankini;Full+Stack+Developer;React+Developer;Python+Programmer;SQL+Enthusiast;AI+%26+Web+Development+Learner;Building+Awesome+Projects+Every+Day" />
 </p>
+
+---
 # 🚀 About Me
 
 - 🎓 BSc Computer Science (AI) @ Loyola Academy
