@@ -89,13 +89,6 @@ https://github.com/shankinineeraj7163-pixel/Forever-e-commerce
 ---
 
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shankinineeraj7163-pixel&theme=tokyo-night"/>
-</p>
-
----
 
 # ⚡ Fun Fact
 
