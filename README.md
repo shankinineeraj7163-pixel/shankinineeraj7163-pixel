@@ -81,7 +81,7 @@ A fully functional MERN-based E-Commerce platform with:
 https://forever-e-commerce-seven.vercel.app/
 
 🔗 GitHub:
-https://github.com/fateslicer69/forever-eCommerce
+https://github.com/shankinineeraj7163-pixel/Forever-e-commerce
 
 ---
 
