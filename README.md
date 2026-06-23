@@ -22,7 +22,7 @@
 - 🌱 Currently learning React, Java, Python & SQL
 - 🤖 Exploring Artificial Intelligence
 - 💼 Open to Internships & Entry-Level Opportunities
-- 🏋️ Gym Enthusiast
+- 🏋️ Athelete 
 
 ---
 
@@ -85,14 +85,6 @@ https://github.com/shankinineeraj7163-pixel/Forever-e-commerce
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shankinineeraj7163-pixel&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shankinineeraj7163-pixel&theme=tokyonight" />
-</p>
-
----
 
 # 📈 Most Used Languages
 
@@ -102,13 +94,6 @@ https://github.com/shankinineeraj7163-pixel/Forever-e-commerce
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shankinineeraj7163-pixel&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -129,7 +114,6 @@ skills: [
 "CSS",
 "JavaScript",
 "React",
-"Java",
 "Python",
 "SQL"
 ],
